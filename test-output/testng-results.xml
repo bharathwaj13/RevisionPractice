@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10455" started-at="2018-12-17T03:59:26Z" finished-at="2018-12-17T03:59:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10455" started-at="2018-12-17T03:59:26Z" finished-at="2018-12-17T03:59:37Z">
+      <class name="flipkart.Login">
+        <test-method status="PASS" signature="getProperty()[pri:0, instance:flipkart.Login@100df86]" name="getProperty" is-config="true" duration-ms="16" started-at="2018-12-17T03:59:26Z" finished-at="2018-12-17T03:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProperty -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:flipkart.Login@100df86]" name="setData" is-config="true" duration-ms="0" started-at="2018-12-17T03:59:26Z" finished-at="2018-12-17T03:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="report()[pri:0, instance:flipkart.Login@100df86]" name="report" is-config="true" duration-ms="156" started-at="2018-12-17T03:59:26Z" finished-at="2018-12-17T03:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="login()[pri:0, instance:flipkart.Login@100df86]" name="login" duration-ms="10249" started-at="2018-12-17T03:59:27Z" finished-at="2018-12-17T03:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterReport()[pri:0, instance:flipkart.Login@100df86]" name="afterReport" is-config="true" duration-ms="654" started-at="2018-12-17T03:59:37Z" finished-at="2018-12-17T03:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterReport -->
+      </class> <!-- flipkart.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
